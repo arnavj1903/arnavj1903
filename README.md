@@ -53,7 +53,9 @@ Check out my [portfolio](https://arnavj1903.github.io/portfolio/)!
 ![arnavj1903's Stats](https://github-readme-stats.vercel.app/api?username=arnavj1903&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![arnavj1903's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnavj1903&theme=dark&hide_border=true)
 ![arnavj1903's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavj1903&theme=dark&show_icons=true&hide_border=true&layout=donut)
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/arnavj1903/arnavj1903/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🌐Connect with me on:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/arnavj1903)
