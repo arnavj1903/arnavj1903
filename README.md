@@ -26,7 +26,7 @@ Check out my [portfolio](https://arnavj1903.github.io/portfolio/)!
       <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flask,nextjs&theme=dark">
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask,bootstrap,opencv,pytorch,tensorflow,sklearn&theme=dark">
+      <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn&theme=dark">
     </td>
   </tr>
   <tr>
